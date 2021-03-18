@@ -2,7 +2,7 @@
 
 ## Linear Regression to Predict MPG
 
-![Linear Regression](Desktop/RChallenge.png "Linear Regression")
+![Linear Regression](/Users/alexabezzone/Desktop/RChallenge.png "Linear Regression")
 
 1. After conducting the multiple linear regression analysis, the following variables/coefficients provided a non-random amount of variance to the mpg values in the dataset:
       - Vehicle Length: p-value = 2.60e-12
