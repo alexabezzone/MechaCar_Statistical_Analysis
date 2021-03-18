@@ -1,8 +1,9 @@
+
 # MechaCar_Statistical_Analysis
 
 ## Linear Regression to Predict MPG
 
-![Linear Regression](Challenge/RChallenge.png "Linear Regression")
+<img width="748" alt="RChallenge" src="https://user-images.githubusercontent.com/74932178/111669350-17ba0d00-87ed-11eb-91c5-e060131d7c7d.png">
 
 1. After conducting the multiple linear regression analysis, the following variables/coefficients provided a non-random amount of variance to the mpg values in the dataset:
       - Vehicle Length: p-value = 2.60e-12
