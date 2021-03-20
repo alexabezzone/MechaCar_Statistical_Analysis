@@ -33,3 +33,7 @@ The design specifications for the MechaCar suspension coils that the variance of
 
 A stastical T-test was conducted to determine if the PSI accross all manufacturing lots is statistically different from the population mean of 1,500. The results provided that PSI accross all lots is stastically different from the population mean with a p-value of .04. An additional three T-tests were utilized to investigate PSI levels within each individual manufacturing lot. Out of the three T-tests, lot 3 was the only manufacturing lot that was statistically significant from the population mean of 1,500 with a p-value of .04. 
 
+## Study Design: MechaCar vs. Competition
+
+
+
