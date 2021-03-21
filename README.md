@@ -35,5 +35,7 @@ A stastical T-test was conducted to determine if the PSI accross all manufacturi
 
 ## Study Design: MechaCar vs. Competition
 
+In order to investigate MechaCar vehicles against the performance of vehicles from other manufacturers, a Two Sample t-Test must be conducted. In order to effectively compare the vehicle performance, the variables of cost, horse power, and maintenance cost should be evaluated. The null hypothesis of the proposed study would be that the the difference between the two sample means is zero and the alternative hypothesis would be the difference between the two sample means is not equal to zero. The data that is needed in order to run the statistical analysis would be the cost, horse power, and maintenance cost within each sample. After analysis, the results should reveal and identify differences within MechaCar's vehicle performance compared to other vehicle manufacturers performances. 
+
 
 
